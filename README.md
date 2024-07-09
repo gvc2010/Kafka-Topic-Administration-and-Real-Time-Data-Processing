@@ -27,3 +27,8 @@ Este produtor lê dados de um arquivo CSV chamado covid.csv e envia cada linha c
 ## Producer (producer_faker)
 
 Este produtor utiliza a biblioteca Faker para gerar dados fictícios e envia cada conjunto de dados como uma mensagem para a partição 1 do tópico s7projeto no Apache Kafka. As mensagens são prefixadas com "FAKE," para identificação fácil pelo consumidor.
+
+
+### Licença Apache 2.0
+
+Este projeto é licenciado sob a Licença Apache 2.0. Veja o arquivo LICENSE para mais detalhes.
